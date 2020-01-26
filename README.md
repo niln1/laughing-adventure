@@ -1,4 +1,4 @@
-# Sample chat bot on App Engine
+# py chat
 
 This is a sample YouTube chat bot that's designed to run on Google App Engine. It leverages Task Queues to simulate a long-running background process which polls the YouTube LiveChatMessages API for the specified video.
 
